@@ -2,7 +2,7 @@
 ## 📊 Project Overview
 In this project, we analyze customer complaints for a large e-commerce company using Pareto analysis. The objective is to identify the key product categories and complaint reasons that contribute to the majority of customer issues, allowing the company to focus on the most impactful areas for improvement.
 
-##🎯 Objectives
+## 🎯 Objectives
 * Perform Pareto analysis on complaint volumes by product category
 
 * Identify top complaint categories and reasons using the 80/20 rule
